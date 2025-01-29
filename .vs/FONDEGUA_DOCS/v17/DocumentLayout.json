@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\FONDEGUA_DOCS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8D405E-4506-48D4-B6C2-CA3BBDB77849}|FONDEGUA_DOCS.csproj|c:\\users\\prohe\\onedrive\\escritorio\\mi portafolio\\fondegua_docs\\nuevodoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8D405E-4506-48D4-B6C2-CA3BBDB77849}|FONDEGUA_DOCS.csproj|solutionrelative:nuevodoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 192,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "nuevoDoc.cs",
+              "DocumentMoniker": "C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\FONDEGUA_DOCS\\nuevoDoc.cs",
+              "RelativeDocumentMoniker": "nuevoDoc.cs",
+              "ToolTip": "C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\FONDEGUA_DOCS\\nuevoDoc.cs",
+              "RelativeToolTip": "nuevoDoc.cs",
+              "ViewState": "AgIAACkBAAAAAAAAAAAowEEBAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T14:50:17.118Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
